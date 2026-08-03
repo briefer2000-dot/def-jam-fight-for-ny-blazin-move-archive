@@ -19,7 +19,7 @@ Each Blazin' Move includes:
 ## Credits
 
 Research and descriptions:
-**YOUR GITHUB USERNAME**
+**BRIEFER2000**
 
 The move descriptions were manually researched by watching and analyzing the animations from the game.
 
@@ -33,8 +33,6 @@ ChatGPT
 ## Contents
 
 - [Blazin' Moves Archive](docs/blazin-moves.md)
-- [Fighting Style Documentation](docs/fighting-styles.md)
-- [Character Analysis](docs/characters.md)
 
 ## About Def Jam: Fight for NY
 
