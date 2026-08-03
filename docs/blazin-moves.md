@@ -49,7 +49,6 @@ Before the enemy can recover, the main character finishes with a powerful left k
 The kick sends the enemy down immediately.
 Style: Simple, direct street violence — no unnecessary movement, just overpowering the opponent with strikes.
 
-Continuing with the next 5.
 6. Swing Time
 Main character:
 The main character grabs the enemy and uses pure strength to lift and control them.
